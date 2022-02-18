@@ -1,1 +1,1 @@
-Full Stack developer and Solution Architect, Currently hands-on in Flutter, GraphQL, .NET CORE WEB API, DOCKER, SQL/Stored procedure, Azure DevOps, YAML & Classic Pipelines, Azure App Services, GIT, Android Studio and Visual Studio. Good hands-on experience working with Entity Framework, SAML 2.0/OKTA, Typescript, Angular 11,Google maps API and VSCODE. Can manage working with any NoSQL Db. Earlier, developed a product single handed coding across layers in C#.NET, jQwidgets, Entity Framework & SQL server. Have successfully led a team of 100+ resources in a single project.
+
