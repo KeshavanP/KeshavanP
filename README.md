@@ -1,11 +1,1 @@
-Architect and a Full stack developer with hands-on skills in C#.Net / .Net Core 3.1, Web API, Entity Framework & Code
-First, Typescript, Angular 9, jQwidgets, Google maps API,Firebase 4.6. SQL server, Oracle and can manage working
-with any NoSQL Db. 
-
-Comfortable working on SPA (Angular, C#.Net/Core). Decent level skills in writing SQL, Stored procedures, LINQ Queries 
-SQL query optimization, Azure DevOps and GIT.
-
-<!---
-KeshavanP/KeshavanP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack developer and Solution Architect, Currently hands-on in Flutter, GraphQL, .NET CORE WEB API, DOCKER, SQL/Stored procedure, Azure DevOps, YAML & Classic Pipelines, Azure App Services, GIT, Android Studio and Visual Studio. Good hands-on experience working with Entity Framework, SAML 2.0/OKTA, Typescript, Angular 11,Google maps API and VSCODE. Can manage working with any NoSQL Db. Earlier, developed a product single handed coding across layers in C#.NET, jQwidgets, Entity Framework & SQL server. Have successfully led a team of 100+ resources in a single project.
